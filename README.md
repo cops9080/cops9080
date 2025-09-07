@@ -1,16 +1,31 @@
-## Hi there 👋
+## print(👋)
 
-<!--
-**cops9080/cops9080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jaejun Lee
 
-Here are some ideas to get you started:
+- The Division of Computer Convergence, Chungnam National University (Mar 2025 - )
+- Gimhae Bunsung High School (Mar 2022 - Feb 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Interest
+
+- computer science and programming language
+  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cops9080&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="cops9080's GitHub Stats" />
+</div>
+
+
+## About me
+
+- [Tistory](https://toastyummy.tistory.com/)
+- [solved.ac](https://solved.ac/profile/cops9080)
+
+
+## Miscellaneous
+
+- [Using Python selenium Development of Web Crawling Automation Program (2023)](https://nbviewer.org/github/250906/pdf/blob/main/Selenium.pdf)
+
+
+## Contact Information
+
+- Email : up93py@gmail.com
