@@ -31,7 +31,3 @@
 - [Using Python selenium Development of Web Crawling Automation Program (2023)](https://nbviewer.org/github/250906/pdf/blob/main/Selenium.pdf)
 
 
-
-## Contact Information
-
-- Email : up93py@gmail.com
