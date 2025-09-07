@@ -1,11 +1,18 @@
-## print("👋")
+# print("👋")
 
-### 😎 Jaejun Lee
+<h3 align="center">😎 Jaejun Lee</h3>
 
-<img src="https://github.com/user-attachments/assets/3ab70883-268c-4d2c-8f6d-76f014ae2d23" width="30%"></img>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ab70883-268c-4d2c-8f6d-76f014ae2d23" width="30%"></img>
+</div>   
+
+<br>
 
 - The Division of Computer Convergence, Chungnam National University (Mar 2025 - )
 - Gimhae Bunsung High School (Mar 2022 - Feb 2025)
+
 
 
 
