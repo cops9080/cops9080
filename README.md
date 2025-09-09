@@ -1,18 +1,11 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+World!+I'm+Jaejun+Lee" alt="Hello" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bodoni&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaejun+Lee;Computer+Science+Student+%7C+Problem+Solver;Java+Developer+%7C+Algorithm+Enthusiast)](https://git.io/typing-svg)
 
 </div>
-
 
 ---
 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bodoni&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Problem+Solver;Java+Developer+%7C+Algorithm+Enthusiast;Always+Learning+%7C+Always+Growing)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3ab70883-268c-4d2c-8f6d-76f014ae2d23" width="25%" style="border-radius: 50%;"></img>
