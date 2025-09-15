@@ -1,19 +1,8 @@
-<div align="center">
+<h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bodoni&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaejun+Lee;Computer+Science+Student+%7C+Problem+Solver;Java+Developer+%7C+Algorithm+Enthusiast)](https://git.io/typing-svg)
+Jaejun Lee
 
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3ab70883-268c-4d2c-8f6d-76f014ae2d23" width="25%" style="border-radius: 50%;"></img>
-  
-  **🎓 Computer Science Student | 💻 Aspiring Developer | 🧠 Problem Solver**
-</div>
-
----
+</h1>
 
 ## 🎯 About Me
 
