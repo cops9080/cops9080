@@ -1,17 +1,4 @@
-## 🏆 Achievements & Activities
-
-<div align="center">
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cops9080)](https://solved.ac/cops9080)
-
-</div>
-
-- 🔍 **Algorithm Problem Solving** - Actively solving problems on [solved.ac](https://solved.ac/profile/cops9080)
-- 📝 **Tech Blogging** - Sharing knowledge and experiences on [Tistory](https://toastyummy.tistory.com/)
-- 🚀 **Project Development** - Web crawling automation using Python Selenium (2023) [View PDF](https://nbviewer.org/github/250906/pdf/blob/main/Selenium.pdf)
-
-
-## 🌐 Connect With Me
+## <div align="center">Connect With Me</div>
 
 <div align="center">
   
