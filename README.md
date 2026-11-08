@@ -1,3 +1,9 @@
+## <div align="center">Languages</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust" />
+</p><br><br>
+
 ## <div align="center">Connect With Me</div>
 
 <div align="center">
@@ -6,4 +12,4 @@
 [![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logo=solvedac&logoColor=white)](https://solved.ac/profile/cops9080)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cops9080)
 
-</div>
+</div><br>
